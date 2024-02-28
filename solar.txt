@@ -1,0 +1,7 @@
+# Title: Solar
+# Last modified: 2024-02-23
+# Version: 1
+
+0.0.0.0 5406.deviceaccess.host
+0.0.0.0 access2.solarmanpv.com
+0.0.0.0 access1.solarmanpv.com
